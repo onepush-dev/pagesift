@@ -2,7 +2,7 @@
 
 PageSift — a self-hosted web scraper, crawler and document parser for AI agents: URLs, PDFs (with OCR) and Office files to clean Markdown/JSON, behind a Firecrawl- and Jina-Reader-compatible API. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=PENDING)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/sJk2PY)
 
 This repository packages the official [PageSift](https://github.com/YOLOW92/pagesift) image (`ghcr.io/yolow92/pagesift:1.2.1`, AGPL-3.0; upstream also offers a commercial licence) for Railway. It is an independent community packaging, not affiliated with or endorsed by the PageSift project.
 
